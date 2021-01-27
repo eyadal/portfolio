@@ -1,2 +1,2 @@
-# portofolio
+# Portfolio
 My React Portfolio
