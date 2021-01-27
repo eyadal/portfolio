@@ -1,8 +1,9 @@
+import Components from './Components'
 function App() {
   return (
-    <div >
-      <h1>Helloo World!</h1>
-    </div>
+    <>
+      <Components />
+    </>
   );
 }
 
