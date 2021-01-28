@@ -1,11 +1,11 @@
 import React from 'react'
 
-function index() {
+function Projects() {
     return (
         <>
-          <h2>Projects</h2>  
+          <h2>Projects Page</h2>  
         </>
     )
 }
 
-export default index
+export default Projects
