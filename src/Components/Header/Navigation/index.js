@@ -1,10 +1,15 @@
 import React from 'react'
+import styled from 'styled-components'
+
+const StyledUl = styled.ul`
+list-style: none
+`
 function index() {
     return (
-        <ul>
+        <StyledUl>
           <li>Navigation</li>
 
-        </ul>
+        </StyledUl>
     )
 }
 
